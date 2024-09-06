@@ -12,6 +12,14 @@ Note: I have created the solution and it can be viewed if you find any issues or
 You can share your solution with me on LinkedIn here: 
 Once shared I'll share a cheatSheet for AI Prompt Engineering!
 
+This Repository uses: 
+
+1) RestAssured
+2) Java
+3) TestNG
+4) Jackson DataBind
+5) POJO for Implementing and using custom API Request/Responses
+
 JSON Request Payload:     {
        "name": "Leanne Graham",
        "username": "Bret",
